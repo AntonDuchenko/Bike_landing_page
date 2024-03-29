@@ -27,4 +27,4 @@ To run this project, no additional steps or configurations are needed. Simply do
 
 ## Author
 
-This project was created by Anton Duchenko.
+This project was created by [Anton Duchenko](https://github.com/AntonDuchenko).
