@@ -1,5 +1,7 @@
 # Bike Landing Page
 
+[DEMO LINK](https://antonduchenko.github.io/Bike_landing_page/)
+
 This project is a simple static landing page for promoting bicycles. It is implemented using HTML and CSS, with SCSS used for styling.
 
 ## Description
